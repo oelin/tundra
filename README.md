@@ -1,3 +1,3 @@
 # Tundra
 
-PyTorch APIs over Flare.
+PyTorch + Flare
